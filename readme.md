@@ -32,3 +32,7 @@ The goal was to recreate a landing page using a **reference image, layout, and c
 ## Status
 
 **Project Complete** - responsive layout built and visually matched the provided design.
+
+## Live Preview
+
+[View Site](https://ni-ki-web.github.io/landing-page/)
